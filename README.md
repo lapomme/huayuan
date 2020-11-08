@@ -1,2 +1,4 @@
-# huayuan
-樺源黑體 Huayuan Gothic
+# 樺源黑體 Huayuan Gothic
+
+樺源黑體是一套基於昭源黑體、思源黑體改造，融合手寫韻味的開源字型。
+
