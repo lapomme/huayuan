@@ -6,6 +6,6 @@ Huayuan Gothic is a font derived from Chiron Sans HK and Source Han Sans, and in
 ![Intro](https://github.com/lapomme/huayuan/blob/main/img/intro.png)
 
 # 下載 Download
-Downloads can be found under https://github.com/lapomme/huayuan/releases. 
+Downloads can be found under [Releases](https://github.com/lapomme/huayuan/releases). 
 # 授權 Licence
-Huayuan Gothic is licensed under the SIL Open Font License, Version 1.1. For more information, please refer to LICENCE.txt.
+Huayuan Gothic is licensed under the SIL Open Font License, Version 1.1. For more information, please refer to [LICENCE.txt](https://github.com/lapomme/huayuan/blob/main/LICENCE.txt).
