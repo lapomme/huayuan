@@ -4,7 +4,7 @@ Changed characters for Regular: 剃函喱嗾園率胺 \
 Changed characters for Bold: 啕姦
 # v0.005
 Changed characters: 祢称弥选艺剜帵鵷葾菀焥兇逋餔峬烳溥酺蒱簿莆傅搏尃榑賻博髆鎛猼餺簙鑮欂蒪薄礡 \
-# v0.004
+# v0.004 
 Changed character: 莌 \
 Changed characters for Bold: 兌稅挩梲敓悅
 # v0.003
