@@ -1,5 +1,5 @@
 # v0.010
-Changed characters: 埶槸爇槷燅
+Changed characters: 埶槸爇槷燅 \
 Changed characters for Bold: 熱
 # v0.009
 Changed characters: 剾奒媠抅揻搙槈搩摖擦攑槺痃糍絚繏胿膎膭臁躼迌鮻鰺鱲黗㔂㤉㧎㨨㨻㴙㾀䈄䘼𠞭𡳞𦉎𦊓𦜆𦟪𧉟𧿬𨑨𩑾𩛩𩸙𫟂𰹬刣邰肨胮膁𩚨傪匧却唩嗬圝塠燶瘻眡呧竵臽蕒藠递閕㜮㜷㝗㤕㧁㧡㪐㬹㼓䃗䉂䌈𢎙𢱤𢳪𤘅𤸁𤸱𧻴𨒇𨢑𩜄𩜰𪘒𫟧𫠛
