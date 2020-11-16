@@ -1,3 +1,5 @@
+# v0.011
+Changed characters: 準齓齕齗齚齞齠齧齫齮齯齰齺㟻冚喦岔峹嶞嶨齔齖齙齛齝齩齱齵齶
 # v0.010
 Changed characters: 埶槸爇槷燅 \
 Changed characters for Bold: 熱
