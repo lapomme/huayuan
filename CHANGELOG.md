@@ -1,3 +1,6 @@
+# v0.014
+Changed characters for Regular: 餒
+Changed characters: ［］﹇﹈
 # v0.013
 Changed characters: 伒圻折听岓沂忻妡析昕斦炘祈斨斪蚚紤訢斮斱靳斲斵馸邤劤頎庍赾鬿旂折哳狾晣埑娎梊晢烲焎悊硩裚踅銴盈鋻
 # v0.012
